@@ -1,0 +1,40 @@
+html{
+    font-family: 微軟正黑體;
+    
+}
+#Link{
+    background-color: lightgray;
+    
+}
+#event_table{
+    font-size: 25px;
+    background-color: rgba(255,0,255,0.2);
+    width: 80%;
+    table-layout: inherit;
+    text-align: center;
+}
+#event{
+    font-size: 25px;
+/*    background-color: rgba(0,0,255,0.1);*/
+}
+#content{
+    font-size: 25px;
+}
+.formal{
+    font-family: 標楷體;
+}
+table{
+    border: 0px;
+}
+pre{
+    font-size: 20px;
+    
+}
+p{
+    font-size: 20px;
+    
+}
+ol{
+    font-size: 23px;
+    
+}
